@@ -93,7 +93,7 @@ const Footer = () => {
             <div className={classes.link_container}>
               <img
                 src={spider}
-                alt="Om Gawande"
+                alt="Aniket Khandave"
                 className={classes.creators_image}
               />
               <a
@@ -102,13 +102,13 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className={classes.links_special}
               >
-                Om Gawande
+                Aniket Khandave
               </a>
             </div>
             <div className={classes.link_container}>
               <img
                 src={nishant}
-                alt="Nishant Bhosale"
+                alt="Tanay Bhuta"
                 className={classes.creators_image}
               />
               <a
@@ -117,13 +117,13 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className={classes.links_special}
               >
-                Nishant Bhosale
+                Tanay Bhuta
               </a>
             </div>
             <div className={classes.link_container}>
               <img
                 src={saurabh}
-                alt="Saurabh Barde"
+                alt="Rimzim Gawade"
                 className={classes.creators_image}
               />
               <a
@@ -132,7 +132,22 @@ const Footer = () => {
                 rel="noopener noreferrer"
                 className={classes.links_special}
               >
-                Saurabh Barde
+                Rimzim Gawade
+              </a>
+              </div>
+            <div className={classes.link_container}>
+              <img
+                src={saurabh}
+                alt="Akshan Sapru"
+                className={classes.creators_image}
+              />
+              <a
+                href={saurabhLink}
+                target="__blank"
+                rel="noopener noreferrer"
+                className={classes.links_special}
+              >
+               Akshan Sapru
               </a>
             </div>
           </div>
