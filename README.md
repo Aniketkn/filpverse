@@ -102,16 +102,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Spyware007"><img src="https://avatars.githubusercontent.com/u/89961974?v=4?s=100" width="100px;" alt=""/><br /><sub><b>OM GAWANDE</b></sub></a><br /><a href="https://github.com/Spyware007/FlipVerse/commits?author=Spyware007" title="Code">💻</a> <a href="#ideas-Spyware007" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Spyware007" title="Project Management">📆</a> <a href="#maintenance-Spyware007" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://nishant-bhosale.netlify.app/"><img src="https://avatars.githubusercontent.com/u/77777251?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nishant Bhosale</b></sub></a><br /><a href="https://github.com/Spyware007/FlipVerse/commits?author=Nishant-Bhosale" title="Code">💻</a> <a href="#ideas-Nishant-Bhosale" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Nishant-Bhosale" title="Project Management">📆</a> <a href="#maintenance-Nishant-Bhosale" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/SaurabhBarde-007"><img src="https://avatars.githubusercontent.com/u/89410132?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saurabh Barde</b></sub></a><br /><a href="#content-SaurabhBarde-007" title="Content">🖋</a> <a href="#design-SaurabhBarde-007" title="Design">🎨</a> <a href="#ideas-SaurabhBarde-007" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/Spyware007/FlipVerse/pulls?q=is%3Apr+reviewed-by%3ASaurabhBarde-007" title="Reviewed Pull Requests">👀</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
